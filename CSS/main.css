@@ -41,6 +41,7 @@ h2 {
   line-height: 30px;
   background-image: linear-gradient(to right, #3da55c, #b4ac49);
   background-clip: text;
+  -webkit-background-clip: text;
   color: transparent;
   position: relative;
   align-self: center;
